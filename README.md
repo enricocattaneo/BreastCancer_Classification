@@ -74,8 +74,8 @@ So we conduct a parallel analysis considering either accuracy or recall for mult
 ## Results
 The performance is the same between Gradient Boosting and Logistic Regression in terms of accuracy. The former has higher precision, while the latter has a better recall. Since, as we highlighted before, recall is the most appropriate metric in this study, we prefer the Logistic model.
 
-<img width="600" alt="Schermata 2022-08-01 alle 13 23 22" src="https://user-images.githubusercontent.com/80990030/182138090-91bf3093-80e1-4a27-9cfa-66f95c5c977f.png">
+<img width="700" alt="Schermata 2022-08-01 alle 13 23 22" src="https://user-images.githubusercontent.com/80990030/182138090-91bf3093-80e1-4a27-9cfa-66f95c5c977f.png">
 
-<img width="400" alt="Schermata 2022-08-01 alle 13 22 58" src="https://user-images.githubusercontent.com/80990030/182138111-574276ee-c73e-4c87-9aa4-9aeec2ece386.png">
+<img width="350" alt="Schermata 2022-08-01 alle 13 22 58" src="https://user-images.githubusercontent.com/80990030/182138111-574276ee-c73e-4c87-9aa4-9aeec2ece386.png">
 
-<img width="400" alt="Schermata 2022-08-01 alle 13 23 08" src="https://user-images.githubusercontent.com/80990030/182138126-9c39d235-43b9-4876-8527-3df5cfbce5fe.png">
+<img width="350" alt="Schermata 2022-08-01 alle 13 23 08" src="https://user-images.githubusercontent.com/80990030/182138126-9c39d235-43b9-4876-8527-3df5cfbce5fe.png">
