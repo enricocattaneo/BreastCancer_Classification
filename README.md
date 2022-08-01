@@ -74,9 +74,8 @@ So we conduct a parallel analysis considering either accuracy or recall for mult
 ## Results
 The performance is the same between Gradient Boosting and Logistic Regression in terms of accuracy. The former has higher precision, while the latter has a better recall. Since, as we highlighted before, recall is the most appropriate metric in this study, we prefer the Logistic model. Our classification model
 
-
 <img width="936" alt="Schermata 2022-08-01 alle 13 41 26" src="https://user-images.githubusercontent.com/80990030/182140569-102ca09f-1680-4246-98e2-89c9423837a7.png">
 
 <img width="350" alt="Schermata 2022-08-01 alle 13 22 58" src="https://user-images.githubusercontent.com/80990030/182138111-574276ee-c73e-4c87-9aa4-9aeec2ece386.png">
 
-<img width="350" alt="Schermata 2022-08-01 alle 13 23 08" src="https://user-images.githubusercontent.com/80990030/182138126-9c39d235-43b9-4876-8527-3df5cfbce5fe.png">
+Our classification model recall on the test set is 100%, meaning that there is no patient with cancer misclassified as healthy. While the precision is 0.97, meaning that only 3% of healthy patients are classified as sick. The test accuracy is 98.25% (overall correclty classified individuals).
