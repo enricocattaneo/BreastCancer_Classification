@@ -40,7 +40,7 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 ## Data Preparation
 Preliminary data analysis. We also split the data into training and test sets.
 
-<img width="584" alt="Schermata 2022-08-01 alle 13 31 55" src="https://user-images.githubusercontent.com/80990030/182139279-cbb5889d-f2b1-4024-a85e-91d02ce1b3bf.png">
+<img width="400" alt="Schermata 2022-08-01 alle 13 31 55" src="https://user-images.githubusercontent.com/80990030/182139279-cbb5889d-f2b1-4024-a85e-91d02ce1b3bf.png">
 
 <a id='classificationmodels'></a>
 ## Classification Models
