@@ -40,7 +40,7 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 ## Data Preparation
 Preliminary data analysis. We also split the data into training and test sets.
 
-![output](https://user-images.githubusercontent.com/80990030/182133835-2c2720ea-2b5d-4db4-b33f-38ba4a54caec.png)
+<img width="584" alt="Schermata 2022-08-01 alle 13 31 55" src="https://user-images.githubusercontent.com/80990030/182139279-cbb5889d-f2b1-4024-a85e-91d02ce1b3bf.png">
 
 <a id='classificationmodels'></a>
 ## Classification Models
@@ -72,7 +72,7 @@ So we conduct a parallel analysis considering either accuracy or recall for mult
 
 <a id='results'></a>
 ## Results
-The performance is the same between Gradient Boosting and Logistic Regression in terms of accuracy. The former has higher precision, while the latter has a better recall. Since, as we highlighted before, recall is the most appropriate metric in this study, we prefer the Logistic model.
+The performance is the same between Gradient Boosting and Logistic Regression in terms of accuracy. The former has higher precision, while the latter has a better recall. Since, as we highlighted before, recall is the most appropriate metric in this study, we prefer the Logistic model. 
 
 <img width="700" alt="Schermata 2022-08-01 alle 13 23 22" src="https://user-images.githubusercontent.com/80990030/182138090-91bf3093-80e1-4a27-9cfa-66f95c5c977f.png">
 
